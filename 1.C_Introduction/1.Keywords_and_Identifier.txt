@@ -1,0 +1,16 @@
+Charecter Set :
+    Charecter Set is a set of alphabet,letters,numbers and some special charecter 
+    that are valid in C languages.
+
+Keyword :
+    Keyword is a pre-defined,reserved words are used in programming languages that 
+    have special meaning to C compiler.
+
+    Keyword is a part of an syntax that cannot used as identifier.
+        ex : int lib;
+            where int is a keyword that represent variable lib is a integer type.
+    
+C is a case sensitive language so all keyword must be in lowercase.
+
+Identifier :
+    Identifier is refers to name given to entities such as variable,function structure etc.

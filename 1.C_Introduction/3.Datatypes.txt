@@ -1,0 +1,18 @@
+There are four types of datatypes that I know in C languages :-
+
+    1. int - it contain integers with no precision
+                it size usually 4 bytes and its format specifier is %d
+        Integers are whole numbers that can have both zero, positive and 
+        negative values but no decimal values. For example, 0, -5, 10
+
+        "What's the difference between float and double?
+                The size of float (single precision float data type) is 4 bytes. 
+                And the size of double (double precision float data type) is 8 bytes."
+    
+    2. double - it size upto  8 bytes and it's format specifier is %lf and using this we declare variable
+                upto precision 15
+    
+    3. float  - it holds real numbers and size upto 4 bytes and it's format specifier is %f
+    
+    4. charecter - it used to declare charecter type variable. and it size upto 1 byte and it's format  
+                is %f.
