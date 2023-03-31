@@ -10,7 +10,7 @@ int main()
             printf("%d and %d is equal",num1,num2);
         }
         else{
-            printf("%d > %d",num1,num2);
+            printf("%d > %d\n",num1,num2);
         }
     }
     else{
