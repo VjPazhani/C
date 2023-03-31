@@ -1,0 +1,4 @@
+\n for new line 
+--- note----
+ 
+ use forward slash 
