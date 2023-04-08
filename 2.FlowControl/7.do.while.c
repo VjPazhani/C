@@ -1,17 +1,17 @@
 //progam to get inputs from user until input become zero and then add the inputs
 #include<stdio.h>
 int main(){
-int n,sum=0;
+double n,sum=0;
 for(;1;)
     {
-        scanf("%d",&n);
+        scanf("%lf",&n);
         if(n!=0)
         {
             sum+=n;
         }
         else
         {
-            printf("%d",sum);
+            printf("%lf",sum);
             break;
         }
     }

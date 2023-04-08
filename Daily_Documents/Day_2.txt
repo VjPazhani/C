@@ -1,0 +1,5 @@
+Today i lerned about the how to use scanf and printf inside loop and outside the loop with example
+To understand above then overview the flow control folder
+Break : it is to stop and escape from loop that the given condition are satisfied
+Continue : It is used to skip the iteration if the test expression are satisfied
+To understand the above example try to overview the  break and continue example in flow control folder
