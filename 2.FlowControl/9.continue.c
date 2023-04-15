@@ -1,4 +1,5 @@
-// program to print n natural numbers when user enter the negative number it only print the previous sums
+// program to print n natural numbers when user enter the negative number it skips the current iteration
+//and continue until the loop ends and also print the sum.
 #include<stdio.h>
 int main(){
     int i;
@@ -9,7 +10,7 @@ int main(){
     printf("Enter the number%d : ",i);
     scanf("%lf",&number);
     if(number<0){
-        break;
+        continue;
     }
     sum += number;
     }

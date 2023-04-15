@@ -1,0 +1,9 @@
+printf("Enter the number%d",i);
+Enter n1: 2.4
+Enter n2: 4.5
+Enter n3: 3.4
+Enter n4: -3
+Sum = 10.30
+Go through the statement and then view the output and break c program in your folder
+for understanding the format of printf
+

@@ -4,6 +4,7 @@ int main(){
 double n,sum=0;
 for(;1;)
     {
+        printf("Enter the number : ");
         scanf("%lf",&n);
         if(n!=0)
         {
@@ -11,7 +12,7 @@ for(;1;)
         }
         else
         {
-            printf("%lf",sum);
+            printf("Sum is %lf\n",sum);
             break;
         }
     }
