@@ -12,9 +12,9 @@ int main(){
             count++;
         }
     }
-    if(count>2)
-    printf("%d is not prime\n",n);
+    if(count==2)
+    printf("%d is  prime\n",n);
     else
-    printf("%d is prime\n",n);
+    printf("%d is not a prime\n",n);
 
 }
